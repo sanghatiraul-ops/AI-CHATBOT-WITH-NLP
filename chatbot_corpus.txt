@@ -1,0 +1,6 @@
+Hello! I am your friendly chatbot.
+I can answer questions about programming, Python, and general queries.
+Python is a popular programming language.
+NLTK is a library used for natural language processing in Python.
+You can ask me about Python, NLP, or general greetings.
+I am here to help you learn and answer simple questions.
