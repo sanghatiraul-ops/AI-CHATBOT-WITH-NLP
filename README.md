@@ -16,3 +16,4 @@ An AI Chatbot with Natural Language Processing (NLP) is a computer program desig
 
 OUTPUT
 
+<img width="1911" height="283" alt="Image" src="https://github.com/user-attachments/assets/ff284586-9a3e-47f8-83a8-8cf12e15ecc0" />
